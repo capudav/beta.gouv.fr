@@ -2,6 +2,8 @@
 title: Registre de preuve de covoiturage
 mission:  Développez le covoiturage sur votre territoire
 owner: DGITM
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 incubator: dinum
 status: acceleration
 start: 2018-06-04
