@@ -2,6 +2,8 @@
 title: Le Taxi
 mission: Commander un taxi, rapidement
 owner: DGITM
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 incubator: dinum
 status: acceleration
 start: 2015-03-15
