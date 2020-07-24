@@ -2,6 +2,8 @@
 title: Aides-territoires
 mission: Accéder aux meilleures aides pour les projets de votre territoire
 owner: Ministère de la Cohésion des territoires / Ministère de la Transition écologique et solidaire
+owner_type: administration-centrale
+domaine_ministeriel: environnement
 incubator: mtes
 status: acceleration
 start: 2018-01-01
